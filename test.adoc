@@ -1,6 +1,4 @@
-= Diagrammes de UC avec plantUML
-Jean-Michel Bruel <jbruel@gmail.com>
-v1.0, 2022-03-06 : Initial draft
+= Test TPGPO
 :icons: font
 :diagrams: .
 :experimental:
@@ -38,7 +36,7 @@ Groupe #:: 2B
 
 [%interactive]
 - [X] Enseignants
-- [ ] 1 Natalie Neptune
+- [ ] 1 
 - [ ] 2
 - [ ] 3
 - [ ] 4
@@ -67,7 +65,7 @@ Le *Diagramme des Cas d'Utilisation* est un modèle UML permettant de représent
 
 [NOTE]
 =====================================================================
-On notera simplement +UC+ pour signifier "diagramme des UC"
+test
 =====================================================================
 
 === Définition et concepts
